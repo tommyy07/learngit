@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int  diff(int a,int b)
+{
+
+a=a*B;
+return a;
+}
+int main()
+{
+int a=2,b=3;
+cout<<diff(a,b);
+}
